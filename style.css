@@ -40,5 +40,20 @@
     .logo-power{.
     width: 5%;
     }
-    
+    .btn{padding: 10px 8px;
+    width: 50px;
+color: #f7f2f1;
+background: #209915;
+border: 1px solid #555;
+border-radius: 5px;
+text-align: center;
+user-select: none;
+cursor: pointer;
+transition: background 1s;}
+
+.btn:hover{
+    background: #555;
+
+}
+
     
